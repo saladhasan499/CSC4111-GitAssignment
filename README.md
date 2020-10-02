@@ -1,4 +1,3 @@
-# GitHub and git
 # CSC4111-GitAssignment
 
 Salah Hasan
