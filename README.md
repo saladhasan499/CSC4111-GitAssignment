@@ -1,7 +1,7 @@
 
-# GitHub and git conflict
+# GitHub and git 
 # CSC4111-GitAssignment
->>>>>>> development
+
 
 Salah Hasan
 ft2059@wayne.edu
